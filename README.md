@@ -14,10 +14,4 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=PulsaraSandeepa)
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PulsaraSandeepa&repo=FlutterBook)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PulsaraSandeepa&repo=BotanicalGarden-react)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PulsaraSandeepa&repo=blog-site-backend)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PulsaraSandeepa&repo=comment-app-frontend)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PulsaraSandeepa&repo=MERN-profilemanagement)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
