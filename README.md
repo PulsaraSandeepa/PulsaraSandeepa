@@ -2,7 +2,11 @@
 
 <!--
 **PulsaraSandeepa/PulsaraSandeepa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm [Abhishek Naidu](https://blog.abhisheknaidu.tech/), a Full Stack Developer 🚀 from India, currently, I'm a Project Collaborator 🙍🏽‍♂️ [@CreativeCommons](https://opensource.creativecommons.org/community/community-team/members/), Mentor 👨🏽‍💼[@BITSoC](https://github.com/BITSoC) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.
+
 -->
+</br>
+
 ## Connect with me 😎
 <p align="Left">
  <a href="https://www.linkedin.com/in/pulsarasandeepa/" target="_blank" rel="noopener noreferrer"> <img align ="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="30" style="vertical-align:top;"></a>
@@ -15,7 +19,7 @@
 
 ## Statistics 🎨
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=PulsaraSandeepa&show_icons=true&theme=tokyonight")
+![Github stats](https://github-readme-stats.vercel.app/api?username=PulsaraSandeepa&show_icons=true&theme=gotham")
 
 ## Top Languages 🎉
 
