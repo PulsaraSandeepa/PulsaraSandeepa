@@ -19,7 +19,8 @@ Hi, I'm [Abhishek Naidu](https://blog.abhisheknaidu.tech/), a Full Stack Develop
 
 ## Statistics 🎨
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=PulsaraSandeepa&show_icons=true&theme=gotham")
+ <img src= "https://github-readme-stats.vercel.app/api?username=PulsaraSandeepa&show_icons=true&theme=gotham" alt="PulsaraSandeepa" />
+
 
 ## Top Languages 🎉
 
