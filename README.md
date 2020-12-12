@@ -9,7 +9,7 @@ Hi, I'm [Abhishek Naidu](https://blog.abhisheknaidu.tech/), a Full Stack Develop
 
 ## Connect with me 😎
 <p align="Left">
- <a href="https://www.linkedin.com/in/pulsarasandeepa/" target="_blank" rel="noopener noreferrer"> <img align ="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin-light.svg" alt="Python" height="30" style="vertical-align:top;"></a>
+ <a href="https://www.linkedin.com/in/pulsarasandeepa/" target="_blank" rel="noopener noreferrer"> <img align ="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="30" style="vertical-align:top;"></a>
  <a href="https://stackoverflow.com/users/10611878/pulsara-sandeepa"> <img align ="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" alt="Python" height="30" style="vertical-align:top;"></a>
    <a href="https://medium.com/@pulsara.18"> <img align ="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" alt="Python" height="30" style="vertical-align:top; "></a>
    <a href="mailto:pulsarasandeepa@gmail.com"> <img align ="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="30" style="vertical-align:top; "></a>
