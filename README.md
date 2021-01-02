@@ -13,7 +13,7 @@ Hi, I'm [Abhishek Naidu](https://blog.abhisheknaidu.tech/), a Full Stack Develop
  <a href="https://stackoverflow.com/users/10611878/pulsara-sandeepa"> <img align ="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" alt="Python" height="30" style="vertical-align:top;"></a>
    <a href="https://medium.com/@pulsara.18"> <img align ="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" alt="Python" height="30" style="vertical-align:top; "></a>
    <a href="mailto:pulsarasandeepa@gmail.com"> <img align ="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="30" style="vertical-align:top; "></a>
-   <a href="https://www.instagram.com/pulsarasandeepa/"> <img align ="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Python" height="30" style="vertical-align:top;"></a>
+   <a href="https://www.instagram.com/pulsarasandeepa/"> <img align ="left" src="https://img.icons8.com/color/2x/facebook.png" alt="Python" height="30" style="vertical-align:top;"></a>
 </p>
 </br>
 
